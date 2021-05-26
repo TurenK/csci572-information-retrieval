@@ -1,0 +1,4 @@
+Average percent overlap: 26.3
+Average Spearman coefficient: -5.92657
+
+So, since the average percent overlap is small and the average Spearman coefficient is negative and less than -1, the Yahoo engine is not similar to Google engine.

@@ -1,0 +1,40 @@
+Name: Ziming Wang
+USC ID: 8219864426
+News site crawled: https://www.wsj.com
+
+Fetch Statistics
+================
+# fetches attempted: 19975
+# fetches succeeded: 19376
+# fetches failed or aborted: 599
+
+Outgoing URLs:
+==============
+Total URLs extracted: 1544099
+# unique URLs extracted: 53643
+# unique URLs within News Site: 31860
+# unique URLs outside News Site: 21783
+
+Status Codes:
+=============
+200 OK: 19376
+301 Moved Permanently: 474
+302 Found: 22
+403 Forbidden: 5
+404 Not Found: 93
+500 Internal Server Error: 1
+503 Service Unavailable: 4
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB: 0
+10KB ~ <100KB: 961
+100KB ~ <1MB: 18078
+>= 1MB: 327
+
+Content Types:
+==============
+application/pdf: 6
+image/png: 16
+text/html: 19344
